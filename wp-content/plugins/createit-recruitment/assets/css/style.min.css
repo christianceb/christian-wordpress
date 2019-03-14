@@ -1,0 +1,10 @@
+.team-members {
+  margin: 0 0 1.5em; }
+  .team-members .team-member h3 {
+    font-size: 10px;
+    padding-top: 0; }
+
+@media (min-width: 768px) {
+  .team-members .team-member img {
+    max-width: 150px;
+    max-height: 150px; } }

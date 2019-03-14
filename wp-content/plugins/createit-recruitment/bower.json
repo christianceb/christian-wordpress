@@ -1,0 +1,21 @@
+{
+  "name": "createit-recruitment",
+  "description": "web packages for createit-recruitment",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "fancybox": "^3.1.20"
+  }
+}
